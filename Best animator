@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Top 10 Animators of 2025</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #222;
+      color: white;
+      padding: 20px 40px;
+      text-align: center;
+    }
+    .container {
+      padding: 40px;
+      max-width: 1000px;
+      margin: auto;
+      background: white;
+    }
+    h1 {
+      font-size: 2em;
+      margin-bottom: 10px;
+    }
+    .animator {
+      margin-bottom: 40px;
+    }
+    .animator h2 {
+      color: #0077cc;
+      margin-bottom: 10px;
+    }
+    .animator p {
+      line-height: 1.6;
+    }
+    a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      background: #222;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Top 10 Most Successful Animators of 2025</h1>
+  <p>Celebrating creativity and innovation in the animation world</p>
+</header>
+
+<div class="container">
+  <div class="animator">
+    <h2>1. Sreeroopa Aniraj (India)</h2>
+    <p>Lead Animator at <strong>Redgod Studios</strong>, Sreeroopa has made waves in 2025 with standout work on projects like <strong>Blus</strong> and the internationally beloved <strong>Masha and the Bear</strong>. Her unique storytelling and powerful visuals place her at the top of this year's list.</p>
+  </div>
+
+  <div class="animator">
+    <h2>2. Gints Zilbalodis (Latvia)</h2>
+    <p>His film <strong>Flow</strong> won the Oscar for Best Animated Feature with its dialogue-free narrative and minimalist aesthetic.
+    <a href="https://de.wikipedia.org/wiki/Gints_Zilbalodis" target="_blank">More info</a></p>
+  </div>
+
+  <div class="animator">
+    <h2>3. Lucy Heavens (UK)</h2>
+    <p>Creator of Disney's <strong>Kiff</strong>, known for its inventive storytelling and multiple award nominations.
+    <a href="https://en.wikipedia.org/wiki/Lucy_Heavens" target="_blank">More info</a></p>
+  </div>
+
+  <div class="animator">
+    <h2>4. Alexey "DaFuq!?Boom!" Gerasimov (Russia)</h2>
+    <p>His viral <strong>Skibidi Toilet</strong> series reshaped online animation culture with over 44 million YouTube subscribers.
+    <a href="https://www.edigitalagency.com.au/youtube/top-10-most-popular-animation-artists-youtube/" target="_blank">More info</a></p>
+  </div>
+
+  <div class="animator">
+    <h2>5. Alan Becker (USA)</h2>
+    <p>Famous for <strong>Animator vs. Animation</strong>, Alan continues to engage millions through creative digital storytelling.
+    <a href="https://www.edigitalagency.com.au/youtube/top-10-most-popular-animation-artists-youtube/" target="_blank">More info</a></p>
+  </div>
+
+  <div class="animator">
+    <h2>6. Mike Rianda (USA)</h2>
+    <p>Director of <strong>The Mitchells vs. The Machines</strong>, and an advocate for ethical AI use in animation.
+    <a href="https://www.wired.com/story/hollywood-animators-fight-artificial-intelligence-labor-mike-rianda" target="_blank">More info</a></p>
+  </div>
+
+  <div class="animator">
+    <h2>7. Nina Gantz (Netherlands)</h2>
+    <p>Known for <strong>Wander to Wonder</strong>, her distinct style contributed to a rise in indie animation in 2025.
+    <a href="https://www.theguardian.com/film/2025/mar/09/animation-oscars-flow-memoir-of-a-snail-wander-to-wonder" target="_blank">More info</a></p>
+  </div>
+
+  <div class="animator">
+    <h2>8. Adam Elliot (Australia)</h2>
+    <p><strong>Memoir of a Snail</strong> continues his legacy of heartfelt, handcrafted stop-motion films.
+    <a href="https://www.theguardian.com/film/2025/mar/09/animation-oscars-flow-memoir-of-a-snail-wander-to-wonder" target="_blank">More info</a></p>
+  </div>
+
+  <div class="animator">
+    <h2>9. Seong-ho Jang (South Korea)</h2>
+    <p>Creator of <strong>The King of Kings</strong>, a visually stunning retelling of the life of Jesus Christ.
+    <a href="https://www.ranker.com/list/2025-animated-movies/sophia-wang" target="_blank">More info</a></p>
+  </div>
+
+  <div class="animator">
+    <h2>10. Majid Adin & Asia Alfasi (Iran/UK & Libya/UK)</h2>
+    <p>Collaborators in the <strong>Stories of Migration</strong> exhibition, they used animation and comics to narrate powerful, emotional journeys of displacement.
+    <a href="https://www.theguardian.com/global-development/2025/jan/20/moving-pictures-comics-and-animation-exhibition-showcases-stories-of-migration-soas" target="_blank">More info</a></p>
+  </div>
+</div>
+
+<footer>
+  <p>© 2025 Animation Showcase. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
